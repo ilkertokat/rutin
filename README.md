@@ -14,6 +14,8 @@
   <img src="docs/rutin-rozet.jpg" width="190" alt="Rozet">
 </p>
 
+<sub>Ekran görüntüleri Android emülatöründe, örnek bir kullanım geçmişi yüklenerek alınmıştır.</sub>
+
 ## Ürün fikri
 
 Çoğu alışkanlık uygulaması "zinciri kırma" baskısıyla çalışır ve ilk kaçırılan günde terk edilir. Rutin'in tasarımı, [`PLAN.md`](PLAN.md)'deki 18 bölümlük ürün dokümanında anlatılan davranış psikolojisi ilkelerine dayanıyor: küçük başlangıçlar, "mini versiyon" ile kısmi başarı, iki kez üst üste kaçırmama kuralı, değişken ödüller ve kimlik odaklı motivasyon.
